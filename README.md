@@ -1,7 +1,7 @@
 # GSC_EIT
 **This code is provided for research purpose only.**
 
-Run "GSC_GN_Demo.m and GSC_LM_Demo" for an example. (Using the EIDORS Toolbox)
+Run "GSC_GN_Demo.m and GSC_LM_Demo" for examples. (Using the EIDORS Toolbox)
 
 <table>
   <tr>
