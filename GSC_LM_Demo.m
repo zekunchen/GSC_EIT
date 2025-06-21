@@ -14,7 +14,7 @@
 %    - An adaptive version of Gauss-Newton, the LM algorithm is used to solve the nonlinear
 %      least-squares problem by adjusting a damping parameter 'lambda'.
 %    - The cost function includes data fidelity and regularization terms:
-%      Cost = ||V_comp - V_meas||^2 + alpha_i*(sigma_i - sigma_i*)^2 + alpha_b*(sigma_b - sigma_b*)^2 + alpha_g*||L*d||^2
+%      Cost = ||V_comp - V_meas||^2 + alpha_i*(sigma_i - sigma_i*)^2 + alpha_b*(sigma_b - sigma_b*)^2 + alpha_g*||L*d-0||^2
 %
 % 3. Optimization Steps (Difference Imaging):
 %    - An augmented residual vector and its corresponding Jacobian 'J_aug' are constructed.
