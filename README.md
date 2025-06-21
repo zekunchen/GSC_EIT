@@ -3,6 +3,13 @@ This code is provided for research purpose only.
 
 Run "GSC_GN_Demo.m and GSC_LM_Demo" for an example. (Using the EIDORS Toolbox)
 
+<table>
+  <tr>
+    <td><img src="EIT_GSC_LM.gif" alt="LM" width="400"></td>
+    <td><img src="EIT_GSC_GN.gif" alt="GN" width="400"></tGNd>
+  </tr>
+</table>
+
 These two demos have been optimized based on the paper, so there may be differences in the details. Multi-object reconstruction can add curves on this basis. Initial position estimation methods are not included in the code. Please implement this yourself. 
 
 Please cite our paper if this code is used to motivate any publications.
