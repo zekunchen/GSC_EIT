@@ -5,8 +5,8 @@ Run "GSC_GN_Demo.m and GSC_LM_Demo" for an example. (Using the EIDORS Toolbox)
 
 <table>
   <tr>
-    <td><img src="EIT_GSC_LM.gif" alt="LM" width="300"></td>
-    <td><img src="EIT_GSC_GN.gif" alt="GN" width="300"></tGNd>
+    <td><img src="EIT_GSC_GN.gif" alt="LM" width="300"></td>
+    <td><img src="EIT_GSC_LM.gif" alt="GN" width="300"></tGNd>
   </tr>
 </table>
 
