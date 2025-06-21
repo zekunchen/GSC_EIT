@@ -14,7 +14,7 @@
 %    - The algorithm iteratively refines the shape and conductivities to minimize
 %      a cost function comprising four terms: data fidelity, inclusion and background
 %      conductivity regularization, and shape smoothness regularization.
-%      Cost = ||V_comp - V_meas||^2 + alpha_i*(sigma_i - sigma_i*)^2 + alpha_b*(sigma_b - sigma_b*)^2 + alpha_g*||L*d||^2
+%      Cost = ||V_comp - V_meas||^2 + alpha_i*(sigma_i - sigma_i*)^2 + alpha_b*(sigma_b - sigma_b*)^2 + alpha_g*||L*d-0||^2
 %
 % 3. Optimization Steps (Difference Imaging):
 %    - An augmented residual vector and its corresponding Jacobian 'J_aug' are constructed.
