@@ -14,4 +14,6 @@ Run "GSC_GN_Demo.m and GSC_LM_Demo" for examples. (Using the EIDORS Toolbox)
 
 **Please cite our paper if this code is used to motivate any publications.**
 
+**https://doi.org/10.1016/j.flowmeasinst.2025.102973**
+
 **Z. Chen, L. Shi, X. Qiao, B. Li and S. Liang, "Geometric Shape Characterization-based Algorithm for Electrical Impedance Tomography Reconstruction," in Flow Measurement and Instrumentation, 2025.**
